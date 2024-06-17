@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![doge](https://github.com/leafboo/leafboo/assets/110758056/ce67ff95-6c7f-427d-bdad-9458e6969169)
+
