@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  🗿
 
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 #
 
-### My stats
+### 📊 My stats
 [![Leafboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafboo&show_icons=true&theme=tokyonight)](https://github.com/leafboo/github-readme-stats)
 
 
 #
 
-### :satellite: :flying_saucer: Technologies
+### 🛸 Technologies
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
