@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
+
 
 ### 📊 My stats
 [![Leafboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafboo&show_icons=true&theme=tokyonight)](https://github.com/leafboo/github-readme-stats)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><br><br>
 
 
 #
