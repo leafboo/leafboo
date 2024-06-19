@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 
 ### My stats
 [![Leafboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafboo&show_icons=true&theme=tokyonight)](https://github.com/leafboo/github-readme-stats)
+
+
+#
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/[ICON SLUG].svg" />
