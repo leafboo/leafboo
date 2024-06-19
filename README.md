@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![doge](https://github.com/leafboo/leafboo/assets/110758056/ce67ff95-6c7f-427d-bdad-9458e6969169)
-
 #
 
 ### 📊 My stats
@@ -31,6 +28,14 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+
+#
+
+### 🐕‍🦺 Doge
+
+![doge](https://github.com/leafboo/leafboo/assets/110758056/ce67ff95-6c7f-427d-bdad-9458e6969169)
+
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
