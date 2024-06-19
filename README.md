@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![doge](https://github.com/leafboo/leafboo/assets/110758056/ce67ff95-6c7f-427d-bdad-9458e6969169)
 
+#
+
+### My stats
+[![Leafboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafboo)](https://github.com/leafboo/github-readme-stats)
