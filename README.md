@@ -25,13 +25,15 @@ Here are some ideas to get you started:
 ### 🛸 Technologies
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 
-<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<a href="https://vitejs.dev" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></a>
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 
@@ -43,7 +45,9 @@ Here are some ideas to get you started:
 
 <a href="https://www.figma.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
 
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a> <br><br>
+<a href="https://git-scm.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+
+<a href="https://code.visualstudio.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a> <br><br>
 
 
 #
