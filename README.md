@@ -1,5 +1,5 @@
 ## Hi there  🗿
-To be edited...
+3rd year BSIT student that is currently tinkering with linux
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
