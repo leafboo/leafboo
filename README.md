@@ -1,5 +1,5 @@
 ## Hi there  🗿
-3rd year BSIT student. Currently learning game dev 🎮
+3rd year BSIT student. Currently surviving finals. Want to keep learning Game dev
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
