@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.mysql.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 
-<img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
-
 <a href="https://www.figma.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
 
 <a href="https://git-scm.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
