@@ -55,9 +55,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linux.com/what-is-linux/" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 
-<a href="https://godotengine.org/" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
 
-<a href="https://reactrouter.com/" target="_blank">
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" /> 
 </a> <br><br>
           
