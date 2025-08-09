@@ -1,5 +1,5 @@
 ## Hi there  🗿
-3rd year BSIT student. Working on Capstone Project.
+4th year BSIT Student.
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
