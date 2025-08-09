@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 
+<a href="https://nginx.org/" target="_blank"><img align="left" alt="nginx" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></a>
+
 <br><br>
           
 
