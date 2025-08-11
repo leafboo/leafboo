@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linux.com/what-is-linux/" target="_blank"><img align="left" alt="Linux" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 
-<a href="https://github.com/tmux/tmux/wiki" target="_blank"><img align="left" alt="tmux" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" /></a>
-
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 
 <a href="https://nginx.org/" target="_blank"><img align="left" alt="nginx" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></a>
