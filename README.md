@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.mysql.com" target="_blank"><img align="left" alt="MySQL" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" /></a>
-
 <a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
 
 <a href="https://spring.io/" target="_blank"><img align="left" alt="SpringBoot" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
