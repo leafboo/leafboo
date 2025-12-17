@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 #
 
-### 🐕‍🦺 Doge
+### :christmas_tree: Merry Christmas!
 
-![doge](https://github.com/leafboo/leafboo/assets/110758056/ce67ff95-6c7f-427d-bdad-9458e6969169)
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f8bd7ff9-1a24-450c-8625-4c32d4a09e05" />
 
 
 
