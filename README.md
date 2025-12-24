@@ -1,5 +1,5 @@
 ## Hi there  🗿
-4th year BSIT Student. I'm interested in backend engineering which I'm planning to pursue a career on, and low level stuff just because it's interesting to me.
+4th year BSIT Student. I'm interested in backend engineering which I'm planning to pursue a career on, and low level stuff. Currently learning GO.
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 <a href="https://www.linux.com/what-is-linux/" target="_blank"><img align="left" alt="Linux" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 
 <a href="https://neovim.io/" target="_blank"><img align="left" alt="Neovim" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
+
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Go" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
 
 <br><br>
           
