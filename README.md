@@ -1,5 +1,5 @@
 ## Hi there  🗿
-4th year BSIT Student. I'm interested in backend engineering which I'm planning to pursue a career on, and low level stuff. Currently learning GO. I use linux btw.
+4th year BSIT Student. I'm interested in backend engineering which I'm planning to pursue a career on, and low level stuff. Currently an intern at a startup, learning devops.
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
