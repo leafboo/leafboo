@@ -1,5 +1,5 @@
 ## Hi there  🗿
-4th year BSIT Student. I'm interested in backend engineering which I'm planning to pursue a career on, and low level stuff. Currently an intern at a fintech startup
+4th year BSIT Student. Interested in low level stuff. Currently interning at a fintech startup.
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
