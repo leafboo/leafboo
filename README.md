@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<a href="https://tailwindcss.com" target="_blank"><img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
 
 <img align="left" alt="Java" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
