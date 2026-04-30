@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 
+<a href="https://developer.hashicorp.com/terraform" target="_blank"><img align="left" alt="Terrafform" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></a>
+
 <a href="https://www.c-language.org/" target="_blank"><img align="left" alt="c" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
 
 <a href="https://redis.io/" target="_blank"><img align="left" alt="nginx" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>
