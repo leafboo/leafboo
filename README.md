@@ -44,16 +44,3 @@ Here are some ideas to get you started:
 <a href="https://neovim.io/" target="_blank"><img align="left" alt="Neovim" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
 
 <a href="https://go.dev/" target="_blank"><img align="left" alt="Go" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
-
-<br><br>
-          
-
-
-#
-
-### :christmas_tree: Merry Christmas!
-
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f8bd7ff9-1a24-450c-8625-4c32d4a09e05" />
-
-
-
