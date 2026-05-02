@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 #
 
 ### 🛸 Technologies
+<a href="https://gohugo.io/" target="_blank"><img align="left" alt="Hugo" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" /></a>
+
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Nodejs" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
