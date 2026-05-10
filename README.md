@@ -1,5 +1,5 @@
 ## Hi there  🗿
-4th year BSIT Student. Interested in systems programming. Currently interning at a fintech startup.
+4th year BSIT Student. Interested in systems programming. Currently working on personal projects.
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
