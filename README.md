@@ -1,7 +1,7 @@
 ## Hi there  🗿
 I like computers
 <br><br>
-<img width="1918" height="1050" alt="Image" src="https://github.com/user-attachments/assets/554ad8dc-0809-49fb-8f03-47e688ee4966" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/34929da4-0f3a-4f79-bec0-2d939dc54ac0" />
 <!--
 **leafboo/leafboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
